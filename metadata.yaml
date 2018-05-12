@@ -1,0 +1,29 @@
+_repo: Ao-de-Leve_34963
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Camacho, Brito
+    aliases:
+    - Camacho, Manuel de Brito
+    - Brito Camacho, Manuel de
+    birthdate: 1862
+    deathdate: 1934
+    gutenberg_agent_id: '37351'
+    url: http://www.gutenberg.org/2009/agents/37351
+description: ''
+gutenberg_issued: '2011-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34963'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese literature'
+- !lcc 'PQ'
+title: Ao de Leve
+url: http://www.gutenberg.org/ebooks/34963
